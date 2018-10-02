@@ -1,8 +1,8 @@
 ----[===#===]----
 Programmer:[LeGars, Dustin]
 Language:[]
-Date of Start:[mm/dd/yyyy (hh:mm optional)]
-Date of Completion:[mm/dd/yyyy (hh:mm optional)]
+Date of Start:[yyyy/mm/dd (hh:mm optional)]
+Date of Completion:[yyyy/mm/dd (hh:mm optional)]
 Information:
 Notes:
 ----[===#===]----
